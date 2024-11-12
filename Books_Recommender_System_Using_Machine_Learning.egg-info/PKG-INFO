@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Books-Recommender-System-Using-Machine-Learning
+Version: 0.0.1
+Summary: A small package for Books Recommender System
+Home-page: https://github.com/Devesh/Books-Recommender-System-Using-Machine-Learning
+Author: Devesh
+Author-email: devesh@gmail916.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy
+
+Books-Recommender-System-Using-Machine-Learning
